@@ -12,6 +12,6 @@ const button = document.getElementById('myButton');
 button.addEventListener('click', () => {
     alert('button clicked!!');
 
-
 });
+
 
