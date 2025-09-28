@@ -1,5 +1,4 @@
 
-
 //<button onclick="alert('The Button is clicked')">Press Here</button>
 
 <button id='myButton'>LAWRENCE at JAVI</button>
@@ -13,5 +12,6 @@ button.onclick=function(){
 const button = document.getElementById('myButton');
 button.addEventListener('click', () => {
     alert('button clicked!!');
+
 
 });
